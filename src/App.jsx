@@ -4,9 +4,9 @@ import { useEffect, useState } from 'react';
 import './App.css'; 
 
 const firebaseApp = initializeApp({
-  apiKey: "AIzaSyD0vxPokS-0X6_zogJ9hhAH0eJewbRDKWk",
-  authDomain: "auth-login-68e7a.firebaseapp.com",
-  projectId: "auth-login-68e7a",
+  apiKey: "**********KWk",
+  authDomain: "***********firebaseapp.com",
+  projectId: "**********7a",
 });
 
 export const App = () => {
